@@ -248,5 +248,4 @@ function showToc() {
   else { alert("Just wait... TOC is loading"); }
 }
 
-<script src="/feeds/posts/summary?alt=json-in-script&amp;max-results=9999&amp;callback=loadtoc" type="text/javascript"></script>
 
